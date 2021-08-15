@@ -9,11 +9,11 @@ Do okna programu dołączony jest "suwak" za pomocą którego można przyśpiesz
 
 -Jungle width
 
--How many animal at the beginning   
+-How many animals at the beginning   
 
 -Animal Speed
 
--Create food per second
+-Create food in seconds
 
 -How many food in jungle per second
 
