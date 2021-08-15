@@ -9,7 +9,7 @@ Do okna programu dołączony jest "suwak" za pomocą którego można przyśpiesz
 
 -Jungle width
 
--How many animals at the beginning   
+-How many animal at the beginning   
 
 -Animal Speed
 
