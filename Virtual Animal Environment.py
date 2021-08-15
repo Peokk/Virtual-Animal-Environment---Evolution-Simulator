@@ -19,8 +19,8 @@ if settings == 'default' or settings == 'd':
     speed = 20
 
 if settings == 'own':
-    jy = int(input("jungle height"))
-    jx = int(input('jungle width'))
+    jy = int(input("Jungle height"))
+    jx = int(input('Jungle width'))
     if int(jy) > 900:
         while int(jy) > 900:
             jy = int(input("jungle height value is too big max = 900"))
@@ -35,15 +35,15 @@ if settings == 'own':
 
     #FOOD
     food_time = int(input("Create food in seconds"))
-    food_j = int(input('How many food in jungle'))
-    food_p = int(input('How many food in plains'))
+    food_j = int(input('How many food in jungle per second'))
+    food_p = int(input('How many food in plains per second'))
 
     #ENERGY
     energy_time = int(input('How many seconds to take energy'))
     energy_take = int(input('How many energy to take'))
     energy_start = int(input('How much energy at the beginning'))
     energy_add = int(input('How much energy to add by eating the plant'))
-    energy_to_copulation= int(input('Please give me energy to copulation'))
+    energy_to_copulation= int(input('Minimal value of energy to copulation'))
 #VARIABLE_______________________________________________________________________________________________________________
 #FPS
 max_fps = 1
