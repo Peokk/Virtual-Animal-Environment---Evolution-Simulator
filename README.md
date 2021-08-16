@@ -32,4 +32,4 @@ Do okna programu dołączony jest "suwak" za pomocą którego można przyśpiesz
 
 -Minimal value of energy to copulation
 ## Link do filmu
-https://www.youtube.com/watch?v=LQ88e4SV3NA
+https://youtu.be/2zbU5zDHG7g
