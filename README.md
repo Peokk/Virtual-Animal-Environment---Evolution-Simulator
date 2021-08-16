@@ -1,3 +1,6 @@
+[![SC2 Video](http://img.youtube.com/vi/LQ88e4SV3NA/0.jpg)](https://www.youtube.com/watch?v=LQ88e4SV3NA)
+
+
 ## Opis
 Virtual Animal Environment ma na celu zasymulowanie z pomocą najprostrzej sztucznej inteligencji rozwoju populacji zwierząt.
 Stan każdego osobnika jest przedstawiony za pomocą koloru w taki sposób, że im jest jaśniejszego koloru tym posiada mniej energii więc jest mu blizej do śmierci. 
@@ -28,5 +31,3 @@ Do okna programu dołączony jest "suwak" za pomocą którego można przyśpiesz
 -How much energy to add by eating the plant
 
 -Minimal value of energy to copulation
-## Link do filmu
-https://www.youtube.com/watch?v=LQ88e4SV3NA
