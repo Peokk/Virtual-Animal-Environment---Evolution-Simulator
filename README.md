@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/Peokk/Virtual-Animal-Environment---Evolution-Simulator/blob/main/Screen.png)
 
 ## Opis
-Virtual Animal Environment ma na celu zasymulowanie z pomocą najprostrzej sztucznej inteligencji rozwoju populacji zwierząt.
+Virtual Animal Environment ma na celu zasymulowanie z pomocą prostych zachowań rozwoju populacji zwierząt.
 Stan każdego osobnika jest przedstawiony za pomocą koloru w taki sposób, że im jest jaśniejszego koloru tym posiada mniej energii więc jest mu blizej do śmierci.
 Jeśli para zwierząt spotka się w tym samym miejscu dojdzie do kopulacji w wyniku czego powstanie nowe zwierze.
 Energię zyskuje trafiając na pole z pokarmem pojawiającym się co jakiś czas, który jest kolorowym małym kwadratem.
