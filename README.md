@@ -1,13 +1,9 @@
 ![Alt text](https://github.com/Peokk/Virtual-Animal-Environment---Evolution-Simulator/blob/main/Screen.png)
 
-## Opis
-Virtual Animal Environment ma na celu zasymulowanie z pomocą prostych zachowań rozwoju populacji zwierząt.
-Stan każdego osobnika jest przedstawiony za pomocą koloru w taki sposób, że im jest jaśniejszego koloru tym posiada mniej energii więc jest mu blizej do śmierci.
-Jeśli para zwierząt spotka się w tym samym miejscu dojdzie do kopulacji w wyniku czego powstanie nowe zwierze.
-Energię zyskuje trafiając na pole z pokarmem pojawiającym się co jakiś czas, który jest kolorowym małym kwadratem.
-Mapa symulacji jest przedstawiona za pomocą łąki na której wytwarza się mniej pokarmu oraz dżungli na której wytwarza się więcej.
-Do okna programu dołączony jest "suwak" za pomocą którego można przyśpieszyć symulację.
-## Ustawienia symulacji
+## Description
+Virtual Animal Environment is a simple simulation of the existence of a population.
+
+## Simulation Settings
 -Jungle height
 
 -Jungle width
@@ -31,5 +27,6 @@ Do okna programu dołączony jest "suwak" za pomocą którego można przyśpiesz
 -How much energy to add by eating the plant
 
 -Minimal value of energy to copulation
-## Link do filmu
+
+## Video
 https://youtu.be/2zbU5zDHG7g
